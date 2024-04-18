@@ -3,3 +3,4 @@ authors = ["BITCyman"]
 language = "en"
 multilingual = false
 src = "src"
+title = "Cyman's Blog"
